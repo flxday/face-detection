@@ -2,7 +2,7 @@
 
 Este repositorio aplica librerias OPENCV para el reconocimiento de caras y ojos obtenidas mediante una webcam.
 
-Siempre que escuche el término reconocimiento facial, inmediatamente piensa en la vigilancia en videos. 
+ 
 Esta aplicación, contiene reconocimiento facial en Webcam! 
 Para la parte de detección de rostros usaremos el impresionante CascadeClassifier y usaremos FaceRecognizer para el reconocimiento facial. Este repositorio utiliza el método de haarcascade para el reconocimiento facial, porque es robusto contra grandes cambios en la iluminación.
 
